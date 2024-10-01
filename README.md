@@ -1,6 +1,7 @@
 # 🎉 Venue Booking and Management System 🎉
 
-![License](https://img.shields.io/github/license/yourusername/reponame) ![Stars](https://img.shields.io/github/stars/yourusername/reponame) ![Issues](https://img.shields.io/github/issues/yourusername/reponame)
+![License](https://img.shields.io/github/license/iRealDaksh/VenueTrack) ![Stars](https://img.shields.io/github/stars/iRealDaksh/VenueTrack) ![Issues](https://img.shields.io/github/issues/iRealDaksh/VenueTrack)
+
 
 ## 🚀 Project Overview
 
