@@ -50,8 +50,8 @@ REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
 ```
 ###🎨 Screenshots
-![Main page screenshot #1](./images/mainpage.png)
-![Main page screenshot #2](./images/mainpage2.png)
+![Main page screenshot #1](./images/mainpage.jpg)
+![Main page screenshot #2](./images/mainpage2.jpg)
 
 for the sample video of the home page visit the images folder
 
@@ -60,15 +60,17 @@ for the sample video of the home page visit the images folder
 📲 Add mobile app version using React Native
 📊 Advanced analytics for admins
 
-###📜 License
+### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-###🙌 Contributors
+### 🙌 Contributors
 Daksh Arora
 Kishore Shashvat
 Madhav Mittal
 Ankur Kumar Singh
-Feel free to contribute, submit issues, or reach out with any ideas! 🤝
 
-📫 Contact:
+
+#### Feel free to contribute, submit issues, or reach out with any ideas! 🤝
+
+### 📫 Contact:
 For any queries, reach me at daksh7march2005@gmail.com or LinkedIn www.linkedin.com/in/daksharora-vitc27
