@@ -51,7 +51,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 ```
 ###🎨 Screenshots
 ![Main page screenshot #1](./images/mainpage.jpg)
-![Main page screenshot #2](images/mainpage 2.jpg)
+![Main page screenshot #2](images/mainpage2.jpg)
 
 for the sample video of the home page visit the images folder
 
